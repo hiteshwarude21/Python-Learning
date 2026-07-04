@@ -22,3 +22,11 @@ b = 6
 # b += 3 #Increment the value of b + 3 to b
 b -=3 #Decrement the value of b - 3 to b
 print(b)
+
+
+# Comparison Operators ( they return boolean values True or False)
+
+d = 5<3 #Check if 5 is less than 3
+# d = 5!=3 #Check if 5 is not equal to 3
+print(d)  
+
