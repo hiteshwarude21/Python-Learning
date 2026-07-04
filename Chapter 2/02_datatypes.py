@@ -7,6 +7,4 @@ c = "Hitesh" # c is a string
 d = True # d is a boolean
 
 e = None # e is a NoneType
-
-
  
