@@ -7,3 +7,6 @@ print(no)
 
 no = a.index(65) #return the index of the first occurrence of 65 in the tuple
 print(no)
+
+print(12 in a)
+print(100 in a)
