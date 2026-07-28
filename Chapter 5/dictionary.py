@@ -9,4 +9,3 @@ marks = {
 
 print(marks["Hitesh"])
 
-
