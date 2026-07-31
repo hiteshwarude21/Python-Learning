@@ -9,3 +9,6 @@ s.remove(3553)
 s.remove(4534)  # this remove only removes 1 element at time
 print(s,type(s))
 
+s.remove(343)
+print(s,type(s))
+
