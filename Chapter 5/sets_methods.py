@@ -12,3 +12,7 @@ print(s,type(s))
 s.remove(343)
 print(s,type(s))
 
+s.remove("hitesh")
+s.add("Raj")
+print(s,type(s))
+
